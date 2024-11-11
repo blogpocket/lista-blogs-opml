@@ -1,5 +1,5 @@
 # Lista blogs RSS (Blogroll)
-Lee un archivo OPML y crea un bloque o shortcode para mostrar la lista de blogs con enlaces RSS.
+Lee un archivo OPML y crea un shortcode para mostrar la lista de blogs con enlaces RSS.
 ## Instrucciones para Utilizar el Plugin
 1. Subir el Archivo OPML Manualmente
 - Sube el archivo OPML a la raíz de la instalación de WordPress. Es decir, el archivo debe estar ubicado en:
